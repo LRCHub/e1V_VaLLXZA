@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナイトメアアビス",
+  "base_artist": "フユウ",
+  "createdAt": "2026-03-12T18:23:45.232651Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトメアアビス (feat. 歌愛ユキ)",
+      "artist": "フユウ",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトメアアビス_(feat._歌愛ユキ)_フユウ.txt"
+    }
+  ]
+}
